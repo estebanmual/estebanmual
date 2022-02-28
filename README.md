@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <a href="https://github.com/estebanmual">
   <img src="https://komarev.com/ghpvc/?username=estebanmual" />
