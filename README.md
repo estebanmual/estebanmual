@@ -25,6 +25,16 @@
 </div> <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=e34c26">
+  <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=264de4">
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=F0DB4F">
+  <img src="https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=Bootstrap&logoColor=7952B3">
+  <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=Git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/Visual Studio Code-ffffff?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=339933">
+</div> <br>
+
+<div align="center">
 <a href="https://github.com/estebanmual">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=estebanmual&count_private=true&show_icons=true&include_all_commits=true" />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanmual&layout=compact" />
@@ -38,7 +48,7 @@
  👯 I’m looking to collaborate on any project. <br>
  🤔 I’m looking for people who want to collaborate with me to solve challenges in our free time. <br>
  💬 Ask me about anything! <br>
- 📫 You can reach me through my email esteban.munozal@gmail.com <br>
+ 📫 You can reach me through my email <a href="mailto:esteban.munozal@gmail.com">esteban.munozal@gmail.com</a> <br>
  ⚡ Fun fact: I like a lot sports and the cryptocurrency world. <br>
 </div>
 
