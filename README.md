@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+<a href="https://github.com/estebanmual/github-readme-stats">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=estebanmual&count_private=true&show_icons=true&include_all_commits=true" />
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanmual&layout=compact" />
+  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=estebanmual" />
+</a>
+</div>
+
 
 - 🔭 I’m currently studying at Microverse working on my portfolio.
 - 🌱 I’m currently learning Javascript.
