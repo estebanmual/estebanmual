@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div>
+<img src="https://komarev.com/ghpvc/?username=estebanmual" />
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white">
+</div>
+
 <div align="center">
 <a href="https://github.com/estebanmual/github-readme-stats">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=estebanmual&count_private=true&show_icons=true&include_all_commits=true" />
