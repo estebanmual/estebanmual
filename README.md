@@ -4,7 +4,7 @@
 <!--END_SECTION:waka-->
 
 <div align="center"> 
-  <img src="https://profile-counter.glitch.me/{user-name}/count.svg" />
+  <img src="https://profile-counter.glitch.me/estebanmual/count.svg" />
  </div> <br>
 
 <div align="center">
