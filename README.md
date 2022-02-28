@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 🔭 I’m currently studying at Microverse working on my portfolio.
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on any project.
