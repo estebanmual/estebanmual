@@ -19,7 +19,7 @@ No activity tracked
   <a href="https://twitter.com/estebanmual">
     <img src="https://img.shields.io/badge/Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2">
   </a>
-  <a href="https://www.instagram.com/esteban_alba">
+  <a href="https://www.instagram.com/estebanmual">
     <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=E1306C">
   </a>
   <a href="https://www.linkedin.com/in/estebanmual/">
