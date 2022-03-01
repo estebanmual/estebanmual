@@ -38,6 +38,7 @@ No activity tracked
   <img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=Git&logoColor=F05032">
   <img src="https://img.shields.io/badge/Visual Studio Code-ffffff?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC">
   <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=339933">
+  <img src="https://img.shields.io/badge/Webpack-ffffff?style=for-the-badge&logo=Webpack&logoColor=1d78c1">
 </div> <br>
 
 <div align="center">
