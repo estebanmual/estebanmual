@@ -1,18 +1,5 @@
 ### Hi there 👋
 
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   10 hrs 6 mins   ████████████████░░░░░░░░░   63.59 %
-CSS          3 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
-HTML         1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-Markdown     57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
-
-<!--END_SECTION:waka-->
-
 <div align="center"> 
   <img src="https://profile-counter.glitch.me/estebanmual/count.svg" />
  </div> <br>
@@ -50,7 +37,18 @@ YAML         1 min           ░░░░░░░░░░░░░░░░░
 <a href="https://github.com/estebanmual">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=estebanmual&count_private=true&show_icons=true&include_all_commits=true" />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanmual&layout=compact" />
-  <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=estebanmual" />
+  <!--START_SECTION:waka-->
+
+```text
+JavaScript   10 hrs 6 mins   ████████████████░░░░░░░░░   63.59 %
+CSS          3 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+HTML         1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Markdown     57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
+<!--END_SECTION:waka-->
 </a>
 </div> <br>
 
