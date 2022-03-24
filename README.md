@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=339933">
   <img src="https://img.shields.io/badge/Webpack-ffffff?style=for-the-badge&logo=Webpack&logoColor=1d78c1">
   <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=React&logoColor=61DBFB">
+  <img src="https://img.shields.io/badge/Jest-ffffff?style=for-the-badge&logo=Jest&logoColor=C53D14">
 </div> <br>
 
 <div align="center">
