@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Jest-ffffff?style=for-the-badge&logo=Jest&logoColor=C53D14">
 </div> <br>
 
-<div align="center">
+<div align="center" display="flex">
 <a href="https://github.com/estebanmual">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=estebanmual&count_private=true&show_icons=true&include_all_commits=true" />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanmual&layout=compact" />
