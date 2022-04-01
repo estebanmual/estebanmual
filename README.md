@@ -4,6 +4,7 @@
   <img src="https://profile-counter.glitch.me/estebanmual/count.svg" />
  </div> <br>
 
+<h3> Reach me through </h3>
 <div align="center">
   <a href="https://github.com/estebanmual">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black">
@@ -20,7 +21,13 @@
   <a href="mailto:esteban.munozal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=Gmail&logoColor=BB001B">
   </a>
+  
+  <a href="https://medium.com/@estebanmual">
+    <img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=Medium&logoColor=000">
+  </a>
 </div> <br>
+
+<h3> Languages and technologies </h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5&logoColor=e34c26">
@@ -33,6 +40,10 @@
   <img src="https://img.shields.io/badge/Webpack-ffffff?style=for-the-badge&logo=Webpack&logoColor=1d78c1">
   <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=React&logoColor=61DBFB">
   <img src="https://img.shields.io/badge/Jest-ffffff?style=for-the-badge&logo=Jest&logoColor=C53D14">
+  <img src="https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jQuery&logoColor=0769AD">
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=000">
+  <img src="https://img.shields.io/badge/Heroku-ffffff?style=for-the-badge&logo=Heroku&logoColor=6762A6">
+  <img src="https://img.shields.io/badge/Netlify-ffffff?style=for-the-badge&logo=Netlify&logoColor=00AD9F">
 </div> <br>
 
 <div align="center">
