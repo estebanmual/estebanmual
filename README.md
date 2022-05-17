@@ -44,7 +44,8 @@
   <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=000">
   <img src="https://img.shields.io/badge/Heroku-ffffff?style=for-the-badge&logo=Heroku&logoColor=6762A6">
   <img src="https://img.shields.io/badge/Netlify-ffffff?style=for-the-badge&logo=Netlify&logoColor=00AD9F">
-  <img src="https://img.shields.io/badge/Postgresql-ffffff?style=for-the-badge&logo=postgresql&logoColor= 0064A5">
+  <img src="https://img.shields.io/badge/Postgresql-ffffff?style=for-the-badge&logo=postgresql&logoColor=0064A5">
+  <img src="https://img.shields.io/badge/Ruby-ffffff?style=for-the-badge&logo=ruby&logoColor=820C02">
 </div> <br>
 
 <div align="center">
