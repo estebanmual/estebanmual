@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Netlify-ffffff?style=for-the-badge&logo=Netlify&logoColor=00AD9F">
   <img src="https://img.shields.io/badge/Postgresql-ffffff?style=for-the-badge&logo=postgresql&logoColor=0064A5">
   <img src="https://img.shields.io/badge/Ruby-ffffff?style=for-the-badge&logo=ruby&logoColor=820C02">
+  <img src="https://img.shields.io/badge/Ruby on Rails-ffffff?style=for-the-badge&logo=rubyonrails&logoColor=CC0000">
 </div> <br>
 
 <div align="center">
