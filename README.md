@@ -53,6 +53,7 @@
 <a href="https://github.com/estebanmual">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=estebanmual&count_private=true&show_icons=true&include_all_commits=true" />
   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanmual&layout=compact" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estebanmual" />
   <!--START_SECTION:waka-->
 
 ```text
@@ -67,6 +68,14 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </a>
 </div> <br>
+
+<div align="center">
+  <a alt="estebanmual's GitHub Profile Trophies" href="https://github.com/estebanmual" rel="noreferrer" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=estebanmual&&no-bg=true&no-frame=true&margin-w=50%">
+    </a>
+</div>
+
+<br>
 
 <div align="center">
  🔭 I’m currently studying at Microverse working on my portfolio. <br>
