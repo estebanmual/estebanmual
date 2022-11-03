@@ -76,8 +76,8 @@ No activity tracked
 <br>
 
 <div align="center">
- 🔭 I’m currently studying at Microverse working on my portfolio. <br>
- 🌱 I’m currently learning Javascript. <br>
+ 🔭 I’m currently working on my portfolio. <br>
+ 🌱 I’m currently learning React Native. <br>
  👯 I’m looking to collaborate on any project. <br>
  🤔 I’m looking for people who want to collaborate with me to solve challenges in our free time. <br>
  💬 Ask me about anything! <br>
