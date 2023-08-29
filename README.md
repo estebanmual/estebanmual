@@ -78,7 +78,7 @@ No activity tracked
 
 <div align="center">
  🔭 I’m currently working on my portfolio. <br>
- 🌱 I’m currently learning React Native. <br>
+ 🌱 I’m currently learning Next.Js <br>
  👯 I’m looking to collaborate on any project. <br>
  🤔 I’m looking for people who want to collaborate with me to solve challenges in our free time. <br>
  💬 Ask me about anything! <br>
